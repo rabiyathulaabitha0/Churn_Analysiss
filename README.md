@@ -170,6 +170,7 @@ jupyter notebook
 - Output saved to `Predictions.csv`
 - Import CSV back to Power BI
 - View on **Churn Prediction** page
+  ![image alt]("C:\Users\rabiy\Pictures\Screenshots\Screenshot (324).png")
 
 ---
 
