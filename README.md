@@ -223,9 +223,7 @@ churn-analysis/
 ```
 ## Dashboard Preview
 
-### Churn Analysis Page
-![Churn Analysis Dashboard]("C:\Users\rabiy\Pictures\Screenshots\Screenshot (324).png")
----
+
 
 ## 👩‍💻 Author
 **Rabiya Thul Aabitha**
