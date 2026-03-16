@@ -199,14 +199,7 @@ jupyter notebook
 - [ ] Build **automated email alerts** for at-risk customers
 - [ ] Add **customer segmentation** using clustering
 
----
 
-## 👩‍💻 Author
-**Rabiya Thul Aabitha**
-- 📧 rabiyathulaabitha04@gmail.com
-- 🐙 github.com/rabiyathulaabitha0
-
----
 
 ## 📁 Project Structure
 ```
@@ -228,6 +221,16 @@ churn-analysis/
 │
 └── README.md
 ```
+## Dashboard Preview
+
+### Churn Analysis Page
+![Churn Analysis Dashboard]("C:\Users\rabiy\Pictures\Screenshots\Screenshot (324).png")
+---
+
+## 👩‍💻 Author
+**Rabiya Thul Aabitha**
+- 📧 rabiyathulaabitha04@gmail.com
+- 🐙 github.com/rabiyathulaabitha0
 
 ---
-⭐ If you found this project helpful, please give it a star!
+
