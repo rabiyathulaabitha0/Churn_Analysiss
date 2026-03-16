@@ -152,6 +152,7 @@ pip install pandas numpy matplotlib seaborn scikit-learn joblib openpyxl
 3. Import `vw_ChurnData` and `vw_JoinData`
 4. Open `churn_Analysis.pbix`
 
+
 ### Step 3 — ML Model
 ```bash
 # Open Jupyter Notebook
@@ -170,9 +171,9 @@ jupyter notebook
 - Output saved to `Predictions.csv`
 - Import CSV back to Power BI
 - View on **Churn Prediction** page
-  ![image alt]("C:\Users\rabiy\Pictures\Screenshots\Screenshot (324).png")
 
 ---
+![image alt](C:\Users\rabiy\Pictures\Screenshots)
 
 ## 📈 Results & Conclusion
 
@@ -183,6 +184,7 @@ jupyter notebook
 | Churn Rate | 26.99% |
 | New Joiners | 411 |
 | Predicted Future Churners | 384 |
+
 
 **Conclusion:**
 - Month-to-month contract customers are most likely to churn
@@ -233,3 +235,4 @@ churn-analysis/
 
 ---
 
+![image alt](C:\Users\rabiy\Pictures\Screenshots)
