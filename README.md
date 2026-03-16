@@ -173,7 +173,7 @@ jupyter notebook
 - View on **Churn Prediction** page
 
 ---
-![image alt](C:\Users\rabiy\Pictures\Screenshots)
+
 
 ## 📈 Results & Conclusion
 
@@ -234,5 +234,3 @@ churn-analysis/
 - 🐙 github.com/rabiyathulaabitha0
 
 ---
-
-![image alt](C:\Users\rabiy\Pictures\Screenshots)
